@@ -20,8 +20,8 @@ If you have any suggestions for improvements, please let me know. You can always
 
 - [OrdelleOrdeals](https://ordelleordeals.com/): A unique reference site featuring a lot of wireframe art that pushes the boundaries of MidJourney art.
 
-- [Advanced MidJourney Prompting](https://wgmimedia.com/how-to-use-midjou ... y-prompts/): An article from WGMIMedia that provides a comprehensive overview of how to harness the power of MidJourney.
+- [Advanced MidJourney Prompting](https://wgmimedia.com/how-to-use-midjourney-advanced-midjourney-prompts/): An article from WGMIMedia that provides a comprehensive overview of how to harness the power of MidJourney.
 
-- [Styles and Keywords Reference for MidJourney](https://github.com/willwulfken/MidJourn ... -Reference): A guide that provides examples of each prompt and is a valuable resource for generating MidJourney art.
+- [Styles and Keywords Reference for MidJourney](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference): A guide that provides examples of each prompt and is a valuable resource for generating MidJourney art.
 
-- [Body Language](https://www.metastellar.com/nonfiction/ ... r-writers/): A writing resource that can help you generate the best image prompts.
+- [Body Language](https://www.metastellar.com/nonfiction/body-language-master-list-for-writers/): A writing resource that can help you generate the best image prompts.
