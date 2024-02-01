@@ -1,4 +1,4 @@
-# Hoppy Cat Open Source Prompt Pack
+# Hoppy Cat Open Source MidJourney Prompt Pack
 
 The Hoppy Cat Open Source Prompt Pack is a free Google sheet with multiple tabs of prompt ideas for MidJourney and Generative AI artists. It aims to inspire creativity, diversify prompts, and help reduce unused fast-hours at the end of monthly MidJourney subscriptions. 
 
