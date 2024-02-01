@@ -12,7 +12,7 @@ Access the Google Sheets file for the Open Source Prompt Pack [here](https://doc
 
 This is not just a list of prompts. It's a categorized collection of prompts that you can modify to your liking, add in image reference links, and integrate into your workflow to improve your datasets over time. This format allows you to copy and paste directly from the sheet into MidJourney, making the process faster and more efficient. Simply make a copy of this spreadsheet to modify it to your heart's content on your own Google Drive! 
 
-If you have any suggestions for improvements, please let me know. You can always e-mail me at hoppy@thomason.ink. 
+If you have any suggestions for improvements, please let me know. You can always e-mail me at hoppy@thomason.ink. If you find this repository useful and would like to show your appreciation, consider buying me a coffee through: [Buy Me a Coffee](https://www.buymeacoffee.com/hoppycat).
 
 ---
 
